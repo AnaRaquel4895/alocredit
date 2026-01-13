@@ -1,0 +1,24 @@
+{
+  "name": "alocredit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaRaquel4895/alocredit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnaRaquel4895/alocredit/issues"
+  },
+  "homepage": "https://github.com/AnaRaquel4895/alocredit#readme",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
